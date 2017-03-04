@@ -1,0 +1,1 @@
+すごいHaskellたのしく学ぼう!読書会@statgenet
